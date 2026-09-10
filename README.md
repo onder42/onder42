@@ -1,5 +1,3 @@
-
-
 I am an **Embedded Systems and AI Engineer** with a **6-year background** bridging the gap between hardware and software. My journey started in discrete electronics and microcontrollers, evolved into building deep learning frameworks and autonomous AI agents from scratch, and has brought me full circle back to bare-metal programming and low-level computer architecture.
 
 ---
