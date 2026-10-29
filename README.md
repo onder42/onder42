@@ -47,6 +47,6 @@ A low-level hardware-software co-design project implementing a discrete-componen
 
 ## Connect With Me
 
-* **LinkedIn:** [Link to your LinkedIn Profile]
+*  [**LinkedIn:**](https://techoneder.blogspot.com/)
 * **Blog:** [Link to your Blogger Website]
 * **Portfolio:** [Link to your GitHub .io website]
