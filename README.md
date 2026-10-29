@@ -11,6 +11,10 @@ I am an **Embedded Systems and AI Engineer** with a **6-year background** bridgi
 
 ---
 
+*  [**Blog:**](https://techoneder.blogspot.com/)
+*  [**Portfolio:**](https://onder42.github.io)
+*  [**LinkedIn**](https://www.linkedin.com/in/chris-wright-10662b434)
+
 ##  Featured Project
 
 ### **Custom 8-Bit CPU Control Unit & Bus Emulator**
@@ -42,7 +46,3 @@ A low-level hardware-software co-design project implementing a discrete-componen
 
 ### Phase 4: Bare-Metal & Systems Architecture (Current Focus)
 * Returned to electronics to master **bare-metal programming**, register-level manipulation, clock cycles, and bus contention. Currently working on low-level firmware optimizations for 8-bit micro-architectures.
-
-
-*  [**Blog:**](https://techoneder.blogspot.com/)
-*  [**Portfolio:**](https://onder42.github.io)
